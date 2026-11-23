@@ -1,0 +1,10 @@
+{
+  "headquarters": "United Kingdom",
+  "stages": ["Pre-seed", "Seed"],
+  "sectors": [
+    "Climate technology",
+    "Consumer health and wellbeing",
+    "B2B technology serving small businesses"
+  ],
+  "preferred_arr": {"currency": "GBP", "min": 500000, "max": 3000000}
+}

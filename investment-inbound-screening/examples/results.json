@@ -1,0 +1,30 @@
+[
+  {
+    "row": 2,
+    "fit": "Strong",
+    "recommendation": "CALL",
+    "reasoning": "The application describes a London-headquartered Series A company selling ecommerce returns software. It reports £3m ARR, within the preferred range.",
+    "follow_up": "Can you share the pitch deck and the date of the reported ARR?"
+  },
+  {
+    "row": 3,
+    "fit": "Potential",
+    "recommendation": "MORE INFO",
+    "reasoning": "The application describes a direct-to-consumer pantry subscription that fits the sector thesis. Headquarters and stage are unknown.",
+    "follow_up": "Where is the company headquartered? What stage are you at, and can you share a deck?"
+  },
+  {
+    "row": 4,
+    "fit": "Potential",
+    "recommendation": "RELEVANT FOR MARKET MAP",
+    "reasoning": "The application describes a Seed-stage inventory software company serving retailers. It lists Dublin as headquarters, outside the UK.",
+    "follow_up": "Can you share a deck and any traction with UK retailers?"
+  },
+  {
+    "row": 5,
+    "fit": "Poor",
+    "recommendation": "PASS",
+    "reasoning": "The application places the Series A business in Leeds. Its mining equipment software serves a sector outside the thesis.",
+    "follow_up": "None at this stage."
+  }
+]
