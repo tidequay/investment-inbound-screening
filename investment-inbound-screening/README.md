@@ -39,3 +39,7 @@ python -m unittest discover -s tests -v
 ```
 
 The tests check Excel import and export, preserved links and row alignment, and rejection of missing, duplicate, or invalid results. A passing run ends with `OK`.
+
+---
+
+**Note:** `thesis.json` contains fictional example screening criteria shown for demonstration purposes only. They do not represent the repository author's investment thesis or any real fund's mandate.
